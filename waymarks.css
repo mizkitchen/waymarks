@@ -1,0 +1,134 @@
+@font-face {
+  font-family: 'waymarks';
+  src:  url('fonts/waymarks.eot?6o1ehx');
+  src:  url('fonts/waymarks.eot?6o1ehx#iefix') format('embedded-opentype'),
+    url('fonts/waymarks.ttf?6o1ehx') format('truetype'),
+    url('fonts/waymarks.woff?6o1ehx') format('woff'),
+    url('fonts/waymarks.svg?6o1ehx#waymarks') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.wm-before,.wm-after {
+  font-family: 'waymarks' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.wm-before:before {
+  padding-right: 0.25em;
+}
+.wm-after:after {
+  padding-left: 0.25em;
+}
+
+/* Before =========== */
+.wm-before.wm-outline-right:before {
+  content: "\e900";
+}
+.wm-before.wm-outline-down:before {
+  content: "\e901";
+}
+.wm-before.wm-outline-left:before {
+  content: "\e902";
+}
+.wm-before.wm-outline-top:before {
+  content: "\e903";
+}
+.wm-before.wm-outline-right-strong:before {
+  content: "\e904";
+}
+.wm-before.wm-outline-down-strong:before {
+  content: "\e905";
+}
+.wm-before.wm-outline-left-strong:before {
+  content: "\e906";
+}
+.wm-before.wm-outline-top-strong:before {
+  content: "\e907";
+}
+.wm-before.wm-fill-right:before {
+  content: "\e908";
+}
+.wm-before.wm-fill-down:before {
+  content: "\e909";
+}
+.wm-before.wm-fill-left:before {
+  content: "\e90a";
+}
+.wm-before.wm-fill-top:before {
+  content: "\e90b";
+}
+.wm-before.wm-plus:before {
+  content: "\e90c";
+}
+.wm-before.wm-minus:before {
+  content: "\e90d";
+}
+.wm-before.wm-plus-strong:before {
+  content: "\e90e";
+}
+.wm-before.wm-minus-strong:before {
+  content: "\e90f";
+}
+.wm-before.wm-blank:before {
+  content: "\e910";
+}
+
+/* After =========== */
+.wm-after.wm-outline-right:after {
+  content: "\e900";
+}
+.wm-after.wm-outline-down:after {
+  content: "\e901";
+}
+.wm-after.wm-outline-left:after {
+  content: "\e902";
+}
+.wm-after.wm-outline-top:after {
+  content: "\e903";
+}
+.wm-after.wm-outline-right-strong:after {
+  content: "\e904";
+}
+.wm-after.wm-outline-down-strong:after {
+  content: "\e905";
+}
+.wm-after.wm-outline-left-strong:after {
+  content: "\e906";
+}
+.wm-after.wm-outline-top-strong:after {
+  content: "\e907";
+}
+.wm-after.wm-fill-right:after {
+  content: "\e908";
+}
+.wm-after.wm-fill-down:after {
+  content: "\e909";
+}
+.wm-after.wm-fill-left:after {
+  content: "\e90a";
+}
+.wm-after.wm-fill-top:after {
+  content: "\e90b";
+}
+.wm-after.wm-plus:after {
+  content: "\e90c";
+}
+.wm-after.wm-minus:after {
+  content: "\e90d";
+}
+.wm-after.wm-plus-strong:after {
+  content: "\e90e";
+}
+.wm-after.wm-minus-strong:after {
+  content: "\e90f";
+}
+.wm-after.wm-blank:after {
+  content: "\e910";
+}
