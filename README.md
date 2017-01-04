@@ -1,2 +1,2 @@
 # WayMarks
-Icon Fonts
+Frequently used icon fonts.
