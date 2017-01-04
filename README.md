@@ -1,2 +1,2 @@
 # WayMarks
-Symbol Icons by font.
+Icon Fonts
